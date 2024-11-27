@@ -25,6 +25,8 @@ public static final ItemGroup RUBY_GROUP = Registry.register(Registries.ITEM_GRO
                     entries.add(ModBlocks.DEEPSLATE_RUBY_ORE);
                     entries.add(ModBlocks.NETHER_RUBY_ORE);
                     entries.add(ModBlocks.END_STONE_RUBY_ORE);
+
+                    entries.add(ModItems.METAL_DETECTOR);
                 }).build());
 
     public static void registerItemGroups() {
